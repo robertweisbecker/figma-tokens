@@ -1,0 +1,176 @@
+{
+  "surface": {
+    "primary": {
+      "default": {
+        "value": "{colors.blue.500}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.blue.600}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.blue.700}",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "$colors.blue.100",
+        "type": "color"
+      },
+      "active": {
+        "value": "$colors.blue.200",
+        "type": "color"
+      }
+    },
+    "info": {
+      "subdued": {
+        "value": "{colors.teal.100}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.teal.300}",
+        "type": "color"
+      }
+    },
+    "brand": {
+      "muted": {
+        "value": "{colors.blue.200}",
+        "type": "color"
+      }
+    },
+    "tertiary": {
+      "active": {
+        "value": "{colors.transparent.blue}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{transparent}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.transparent.dark-02}",
+        "type": "color"
+      }
+    }
+  },
+  "text": {
+    "default": {
+      "emphasis": {
+        "value": "#25292e",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#464d55",
+        "type": "color"
+      },
+      "subdued": {
+        "value": "#6a737d",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#969da499",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "$colors.blue.500",
+        "type": "color"
+      },
+      "interactive-hover": {
+        "value": "$colors.blue.600",
+        "type": "color"
+      },
+      "info": {
+        "value": "$colors.purple.500",
+        "type": "color"
+      },
+      "success": {
+        "value": "#05874f",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#a14c02",
+        "type": "color"
+      },
+      "error": {
+        "value": "#d90f31",
+        "type": "color"
+      }
+    },
+    "invert": {
+      "interactive-hover": {
+        "value": "{colors.blue.200}",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "{colors.blue.300}",
+        "type": "color"
+      },
+      "emphasis": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "muted": {
+        "value": "#d0d5db",
+        "type": "color"
+      },
+      "info": {
+        "value": "$colors.purple.200",
+        "type": "color"
+      },
+      "success": {
+        "value": "#7edea9",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#ffd38b",
+        "type": "color"
+      },
+      "error": {
+        "value": "#ff9f96",
+        "type": "color"
+      }
+    },
+    "on-primary": {
+      "default": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "on-secondary": {
+      "default": {
+        "value": "$colors.blue.500",
+        "type": "color"
+      },
+      "hover": {
+        "value": "$colors.blue.600",
+        "type": "color"
+      },
+      "active": {
+        "value": "$colors.blue.700",
+        "type": "color"
+      }
+    }
+  },
+  "font-family": {
+    "default": {
+      "value": "Mulish",
+      "type": "fontFamilies"
+    }
+  },
+  "font-weight": {
+    "ui": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "extrabold": {
+      "value": "800",
+      "type": "fontWeights"
+    }
+  }
+}

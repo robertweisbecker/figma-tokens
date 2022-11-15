@@ -1,0 +1,158 @@
+{
+  "surface": {
+    "primary": {
+      "default": {
+        "value": "$colors.teal.300",
+        "type": "color"
+      },
+      "hover": {
+        "value": "$colors.teal.200",
+        "type": "color"
+      },
+      "active": {
+        "value": "$colors.teal.100",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "value": "#969da44d",
+      "type": "color"
+    },
+    "page": {
+      "value": "$colors.grey.800",
+      "type": "color"
+    },
+    "page-neutral": {
+      "value": "$colors.grey.900",
+      "type": "color"
+    },
+    "secondary": {
+      "default": {
+        "value": "$colors.grey.900",
+        "type": "color"
+      },
+      "hover": {
+        "value": "$colors.grey.800",
+        "type": "color"
+      },
+      "active": {
+        "value": "$colors.grey.700",
+        "type": "color"
+      }
+    },
+    "semantic": {
+      "info": {
+        "subdued": {
+          "value": "#e3f0fc",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#77bcfd",
+          "type": "color"
+        }
+      },
+      "success": {
+        "subdued": {
+          "value": "#e1f5ec",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#7edea9",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "subdued": {
+          "value": "#fff1db",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#fed480",
+          "type": "color"
+        }
+      },
+      "error": {
+        "subdued": {
+          "value": "#feeced",
+          "type": "color"
+        },
+        "muted": {
+          "value": "#ff9f96",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "text": {
+    "disabled": {
+      "value": "#969da499",
+      "type": "color"
+    },
+    "default": {
+      "emphasis": {
+        "value": "$colors.grey.200",
+        "type": "color"
+      },
+      "muted": {
+        "value": "$colors.grey.300",
+        "type": "color"
+      },
+      "subdued": {
+        "value": "$colors.grey.400",
+        "type": "color"
+      },
+      "interactive-hover": {
+        "value": "#83e5e0",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "#4dd1c4",
+        "type": "color"
+      },
+      "info": {
+        "value": "#74b2ec",
+        "type": "color"
+      },
+      "success": {
+        "value": "#7edea9",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#ffd38b",
+        "type": "color"
+      },
+      "error": {
+        "value": "#ff9f96",
+        "type": "color"
+      }
+    },
+    "on-primary": {
+      "default": {
+        "value": "$colors.grey.900",
+        "type": "color"
+      },
+      "hover": {
+        "value": "$colors.grey.900",
+        "type": "color"
+      },
+      "active": {
+        "value": "$colors.grey.900",
+        "type": "color"
+      }
+    },
+    "on-secondary": {
+      "default": {
+        "value": "$colors.teal.300",
+        "type": "color"
+      },
+      "hover": {
+        "value": "$colors.teal.200",
+        "type": "color"
+      },
+      "active": {
+        "value": "$colors.teal.100",
+        "type": "color"
+      }
+    }
+  }
+}

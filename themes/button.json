@@ -1,0 +1,23 @@
+{
+  "primary": {
+    "container": {
+      "value": {
+        "fill": "{surface.primary.default}",
+        "verticalPadding": "{spacing.base.sm}",
+        "borderWidth": "{border-width.xs}",
+        "horizontalPadding": "{spacing.base.md}",
+        "borderRadius": "{border-radii.sm}",
+        "border": "{surface.primary.default}"
+      },
+      "type": "composition"
+    },
+    "text": {
+      "value": {
+        "fontFamilies": "{font-family.default}",
+        "fontWeights": "{font-weight.ui}",
+        "fill": "{text.on-primary.default}"
+      },
+      "type": "composition"
+    }
+  }
+}
