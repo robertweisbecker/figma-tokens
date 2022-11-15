@@ -115,23 +115,23 @@
       "type": "paragraphSpacing"
     },
     "xxs": {
-      "value": "{spacing.spacious.xxs}",
+      "value": "{spacing.base.xxs}",
       "type": "paragraphSpacing"
     },
     "xs": {
-      "value": "{spacing.spacious.xs}",
+      "value": "{spacing.base.xs}",
       "type": "paragraphSpacing"
     },
     "sm": {
-      "value": "{spacing.spacious.sm}",
+      "value": "{spacing.base.sm}",
       "type": "paragraphSpacing"
     },
     "md": {
-      "value": "{spacing.spacious.md}",
+      "value": "{spacing.base.md}",
       "type": "paragraphSpacing"
     },
     "lg": {
-      "value": "{spacing.spacious.lg}",
+      "value": "{spacing.base.lg}",
       "type": "paragraphSpacing"
     }
   },
