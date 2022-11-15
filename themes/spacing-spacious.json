@@ -1,0 +1,188 @@
+{
+  "spacing": {
+    "spacious": {
+      "xxs": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "40",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "80",
+        "type": "spacing"
+      }
+    }
+  },
+  "padding": {
+    "inset": {
+      "xxs": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xxs}",
+          "horizontalPadding": "{spacing.spacious.xxs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xs}",
+          "horizontalPadding": "{spacing.spacious.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.sm}",
+          "horizontalPadding": "{spacing.spacious.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.md}",
+          "horizontalPadding": "{spacing.spacious.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.lg}",
+          "horizontalPadding": "{spacing.spacious.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xl}",
+          "horizontalPadding": "{spacing.spacious.xl}"
+        },
+        "type": "composition"
+      },
+      "xxl": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xxl}",
+          "horizontalPadding": "{spacing.spacious.xxl}"
+        },
+        "type": "composition"
+      }
+    },
+    "squish": {
+      "xs": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xxs}",
+          "horizontalPadding": "{spacing.spacious.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xs}",
+          "horizontalPadding": "{spacing.spacious.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.sm}",
+          "horizontalPadding": "{spacing.spacious.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.md}",
+          "horizontalPadding": "{spacing.spacious.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.lg}",
+          "horizontalPadding": "{spacing.spacious.xl}"
+        },
+        "type": "composition"
+      },
+      "xxl": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xl}",
+          "horizontalPadding": "{spacing.spacious.xxl}"
+        },
+        "type": "composition"
+      }
+    },
+    "stretch": {
+      "xxs": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xs}",
+          "horizontalPadding": "{spacing.spacious.xxs}"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.sm}",
+          "horizontalPadding": "{spacing.spacious.xs}"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.md}",
+          "horizontalPadding": "{spacing.spacious.sm}"
+        },
+        "type": "composition"
+      },
+      "md": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.lg}",
+          "horizontalPadding": "{spacing.spacious.md}"
+        },
+        "type": "composition"
+      },
+      "lg": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xl}",
+          "horizontalPadding": "{spacing.spacious.lg}"
+        },
+        "type": "composition"
+      },
+      "xl": {
+        "value": {
+          "verticalPadding": "{spacing.spacious.xxl}",
+          "horizontalPadding": "{spacing.spacious.xl}"
+        },
+        "type": "composition"
+      }
+    }
+  },
+  "spacious": {
+    "ui": {
+      "default": {
+        "value": {
+          "fontFamily": "{font-family.default}",
+          "fontWeight": "{font-weight.ui}",
+          "lineHeight": "{lineHeights.md}",
+          "fontSize": "{fontSize.md}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}

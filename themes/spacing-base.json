@@ -115,23 +115,23 @@
       "type": "paragraphSpacing"
     },
     "xxs": {
-      "value": "{spacing.base.xxs}",
+      "value": "{spacing.spacious.xxs}",
       "type": "paragraphSpacing"
     },
     "xs": {
-      "value": "{spacing.base.xs}",
+      "value": "{spacing.spacious.xs}",
       "type": "paragraphSpacing"
     },
     "sm": {
-      "value": "{spacing.base.sm}",
+      "value": "{spacing.spacious.sm}",
       "type": "paragraphSpacing"
     },
     "md": {
-      "value": "{spacing.base.md}",
+      "value": "{spacing.spacious.md}",
       "type": "paragraphSpacing"
     },
     "lg": {
-      "value": "{spacing.base.lg}",
+      "value": "{spacing.spacious.lg}",
       "type": "paragraphSpacing"
     }
   },
@@ -170,7 +170,7 @@
           "lineHeight": "1.625 * {rem}",
           "fontSize": "1.375 * {rem}",
           "letterSpacing": "",
-          "paragraphSpacing": "{spacing.base.sm}",
+          "paragraphSpacing": "{spacing.spacious.sm}",
           "textCase": "",
           "textDecoration": ""
         },
@@ -387,50 +387,50 @@
     "inset": {
       "xxs": {
         "value": {
-          "verticalPadding": "{spacing.base.xxs}",
-          "horizontalPadding": "{spacing.base.xxs}"
+          "verticalPadding": "{spacing.spacious.xxs}",
+          "horizontalPadding": "{spacing.spacious.xxs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "verticalPadding": "{spacing.base.xs}",
-          "horizontalPadding": "{spacing.base.xs}"
+          "verticalPadding": "{spacing.spacious.xs}",
+          "horizontalPadding": "{spacing.spacious.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "verticalPadding": "{spacing.base.sm}",
-          "horizontalPadding": "{spacing.base.sm}"
+          "verticalPadding": "{spacing.spacious.sm}",
+          "horizontalPadding": "{spacing.spacious.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "verticalPadding": "{spacing.base.md}",
-          "horizontalPadding": "{spacing.base.md}"
+          "verticalPadding": "{spacing.spacious.md}",
+          "horizontalPadding": "{spacing.spacious.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "verticalPadding": "{spacing.base.lg}",
-          "horizontalPadding": "{spacing.base.lg}"
+          "verticalPadding": "{spacing.spacious.lg}",
+          "horizontalPadding": "{spacing.spacious.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "verticalPadding": "{spacing.base.xl}",
-          "horizontalPadding": "{spacing.base.xl}"
+          "verticalPadding": "{spacing.spacious.xl}",
+          "horizontalPadding": "{spacing.spacious.xl}"
         },
         "type": "composition"
       },
       "xxl": {
         "value": {
-          "verticalPadding": "{spacing.base.xxl}",
-          "horizontalPadding": "{spacing.base.xxl}"
+          "verticalPadding": "{spacing.spacious.xxl}",
+          "horizontalPadding": "{spacing.spacious.xxl}"
         },
         "type": "composition"
       }
@@ -438,43 +438,43 @@
     "squish": {
       "xs": {
         "value": {
-          "verticalPadding": "{spacing.base.xxs}",
-          "horizontalPadding": "{spacing.base.xs}"
+          "verticalPadding": "{spacing.spacious.xxs}",
+          "horizontalPadding": "{spacing.spacious.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "verticalPadding": "{spacing.base.xs}",
-          "horizontalPadding": "{spacing.base.sm}"
+          "verticalPadding": "{spacing.spacious.xs}",
+          "horizontalPadding": "{spacing.spacious.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "verticalPadding": "{spacing.base.sm}",
-          "horizontalPadding": "{spacing.base.md}"
+          "verticalPadding": "{spacing.spacious.sm}",
+          "horizontalPadding": "{spacing.spacious.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "verticalPadding": "{spacing.base.md}",
-          "horizontalPadding": "{spacing.base.lg}"
+          "verticalPadding": "{spacing.spacious.md}",
+          "horizontalPadding": "{spacing.spacious.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "verticalPadding": "{spacing.base.lg}",
-          "horizontalPadding": "{spacing.base.xl}"
+          "verticalPadding": "{spacing.spacious.lg}",
+          "horizontalPadding": "{spacing.spacious.xl}"
         },
         "type": "composition"
       },
       "xxl": {
         "value": {
-          "verticalPadding": "{spacing.base.xl}",
-          "horizontalPadding": "{spacing.base.xxl}"
+          "verticalPadding": "{spacing.spacious.xl}",
+          "horizontalPadding": "{spacing.spacious.xxl}"
         },
         "type": "composition"
       }
@@ -482,43 +482,43 @@
     "stretch": {
       "xxs": {
         "value": {
-          "verticalPadding": "{spacing.base.xs}",
-          "horizontalPadding": "{spacing.base.xxs}"
+          "verticalPadding": "{spacing.spacious.xs}",
+          "horizontalPadding": "{spacing.spacious.xxs}"
         },
         "type": "composition"
       },
       "xs": {
         "value": {
-          "verticalPadding": "{spacing.base.sm}",
-          "horizontalPadding": "{spacing.base.xs}"
+          "verticalPadding": "{spacing.spacious.sm}",
+          "horizontalPadding": "{spacing.spacious.xs}"
         },
         "type": "composition"
       },
       "sm": {
         "value": {
-          "verticalPadding": "{spacing.base.md}",
-          "horizontalPadding": "{spacing.base.sm}"
+          "verticalPadding": "{spacing.spacious.md}",
+          "horizontalPadding": "{spacing.spacious.sm}"
         },
         "type": "composition"
       },
       "md": {
         "value": {
-          "verticalPadding": "{spacing.base.lg}",
-          "horizontalPadding": "{spacing.base.md}"
+          "verticalPadding": "{spacing.spacious.lg}",
+          "horizontalPadding": "{spacing.spacious.md}"
         },
         "type": "composition"
       },
       "lg": {
         "value": {
-          "verticalPadding": "{spacing.base.xl}",
-          "horizontalPadding": "{spacing.base.lg}"
+          "verticalPadding": "{spacing.spacious.xl}",
+          "horizontalPadding": "{spacing.spacious.lg}"
         },
         "type": "composition"
       },
       "xl": {
         "value": {
-          "verticalPadding": "{spacing.base.xxl}",
-          "horizontalPadding": "{spacing.base.xl}"
+          "verticalPadding": "{spacing.spacious.xxl}",
+          "horizontalPadding": "{spacing.spacious.xl}"
         },
         "type": "composition"
       }
