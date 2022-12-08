@@ -583,11 +583,6 @@
       "value": "0",
       "type": "borderWidth"
     },
-    "hidden": {
-      "value": "1px",
-      "type": "borderWidth",
-      "description": "1px solid transparent"
-    },
     "xs": {
       "value": "1px",
       "type": "borderWidth"
