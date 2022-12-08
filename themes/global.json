@@ -388,53 +388,48 @@
     }
   },
   "border-radii": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "xxs": {
+      "value": ".125rem",
+      "type": "borderRadius"
+    },
     "xs": {
-      "value": "4",
+      "value": ".25rem",
       "type": "borderRadius"
     },
     "sm": {
-      "value": "6",
+      "value": ".375rem",
       "type": "borderRadius",
       "description": "Buttons, fields, etc."
     },
     "md": {
-      "value": "8",
+      "value": ".5rem",
       "type": "borderRadius",
       "description": "Dialogs"
     },
     "lg": {
-      "value": "12",
+      "value": ".75rem",
       "type": "borderRadius"
     },
     "xl": {
-      "value": "20",
+      "value": "1rem",
+      "type": "borderRadius"
+    },
+    "xxl": {
+      "value": "1.5rem",
       "type": "borderRadius"
     },
     "rounded": {
-      "value": "500",
+      "value": "9999px",
+      "type": "borderRadius"
+    },
+    "circle": {
+      "value": "50%",
       "type": "borderRadius"
     }
-  },
-  "focus-shadow": {
-    "value": [
-      {
-        "color": "{colors.teal.500}",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "3"
-      },
-      {
-        "color": "{colors.white}",
-        "type": "dropShadow",
-        "x": "0",
-        "y": "0",
-        "blur": "0",
-        "spread": "2"
-      }
-    ],
-    "type": "boxShadow"
   },
   "elevations": {
     "1": {
@@ -584,6 +579,10 @@
     }
   },
   "border-width": {
+    "none": {
+      "value": "0",
+      "type": "borderWidth"
+    },
     "hidden": {
       "value": "1px",
       "type": "borderWidth",
