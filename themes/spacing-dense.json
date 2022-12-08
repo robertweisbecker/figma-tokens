@@ -244,33 +244,5 @@
       "value": "52px",
       "type": "spacing"
     }
-  },
-  "padding": {
-    "inset-squish": {
-      "xs": {
-        "value": "$spacing.xxs $spacing.xs",
-        "type": "spacing"
-      },
-      "sm": {
-        "value": "$spacing.xs, $spacing.sm",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "20",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "32",
-        "type": "spacing"
-      },
-      "xl": {
-        "value": "48",
-        "type": "spacing"
-      },
-      "xxl": {
-        "value": "64",
-        "type": "spacing"
-      }
-    }
   }
 }
