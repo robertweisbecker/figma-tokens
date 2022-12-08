@@ -216,33 +216,35 @@
     }
   },
   "spacing": {
-    "xxs": {
-      "value": ".25rem",
-      "type": "spacing"
-    },
-    "xs": {
-      "value": ".375rem",
-      "type": "spacing"
-    },
-    "sm": {
-      "value": ".5rem",
-      "type": "spacing"
-    },
-    "md": {
-      "value": "1rem",
-      "type": "spacing"
-    },
-    "lg": {
-      "value": "1.5rem",
-      "type": "spacing"
-    },
-    "xl": {
-      "value": "2.25rem",
-      "type": "spacing"
-    },
-    "xxl": {
-      "value": "3.25rem",
-      "type": "spacing"
+    "dense": {
+      "xxs": {
+        "value": ".25rem",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": ".375rem",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": ".5rem",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "1rem",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "1.5rem",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "2.25rem",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "3.25rem",
+        "type": "spacing"
+      }
     }
   }
 }
