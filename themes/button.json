@@ -3,9 +3,9 @@
     "container": {
       "value": {
         "fill": "{surface.primary.default}",
-        "verticalPadding": "{spacing.spacious.sm}",
+        "verticalPadding": "{spacing.base.sm}",
         "borderWidth": "{border-width.xs}",
-        "horizontalPadding": "{spacing.spacious.md}",
+        "horizontalPadding": "{spacing.base.md}",
         "borderRadius": "{border-radii.sm}",
         "border": "{surface.primary.default}"
       },
