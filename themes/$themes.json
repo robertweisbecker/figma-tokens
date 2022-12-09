@@ -9,7 +9,6 @@
       "spacing-dense": "disabled",
       "zzz_homeroom": "disabled",
       "zzz_alloy-dark": "disabled",
-      "button": "enabled",
       "spacing-spacious": "disabled"
     },
     "$figmaStyleReferences": {}
@@ -24,7 +23,6 @@
       "spacing-dense": "disabled",
       "zzz_homeroom": "enabled",
       "zzz_alloy-dark": "disabled",
-      "button": "disabled",
       "spacing-spacious": "disabled"
     },
     "$figmaStyleReferences": {}
