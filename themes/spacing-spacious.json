@@ -32,143 +32,145 @@
     }
   },
   "padding": {
-    "inset": {
-      "xxs": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xxs}",
-          "horizontalPadding": "{spacing.spacious.xxs}"
+    "spacious": {
+      "inset": {
+        "xxs": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xxs}",
+            "horizontalPadding": "{spacing.spacious.xxs}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "xs": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xs}",
+            "horizontalPadding": "{spacing.spacious.xs}"
+          },
+          "type": "composition"
+        },
+        "sm": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.sm}",
+            "horizontalPadding": "{spacing.spacious.sm}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.md}",
+            "horizontalPadding": "{spacing.spacious.md}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.lg}",
+            "horizontalPadding": "{spacing.spacious.lg}"
+          },
+          "type": "composition"
+        },
+        "xl": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xl}",
+            "horizontalPadding": "{spacing.spacious.xl}"
+          },
+          "type": "composition"
+        },
+        "xxl": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xxl}",
+            "horizontalPadding": "{spacing.spacious.xxl}"
+          },
+          "type": "composition"
+        }
       },
-      "xs": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xs}",
-          "horizontalPadding": "{spacing.spacious.xs}"
+      "squish": {
+        "xs": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xxs}",
+            "horizontalPadding": "{spacing.spacious.xs}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "sm": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xs}",
+            "horizontalPadding": "{spacing.spacious.sm}"
+          },
+          "type": "composition"
+        },
+        "md": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.sm}",
+            "horizontalPadding": "{spacing.spacious.md}"
+          },
+          "type": "composition"
+        },
+        "lg": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.md}",
+            "horizontalPadding": "{spacing.spacious.lg}"
+          },
+          "type": "composition"
+        },
+        "xl": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.lg}",
+            "horizontalPadding": "{spacing.spacious.xl}"
+          },
+          "type": "composition"
+        },
+        "xxl": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xl}",
+            "horizontalPadding": "{spacing.spacious.xxl}"
+          },
+          "type": "composition"
+        }
       },
-      "sm": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.sm}",
-          "horizontalPadding": "{spacing.spacious.sm}"
+      "stretch": {
+        "xxs": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xs}",
+            "horizontalPadding": "{spacing.spacious.xxs}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "md": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.md}",
-          "horizontalPadding": "{spacing.spacious.md}"
+        "xs": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.sm}",
+            "horizontalPadding": "{spacing.spacious.xs}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "lg": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.lg}",
-          "horizontalPadding": "{spacing.spacious.lg}"
+        "sm": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.md}",
+            "horizontalPadding": "{spacing.spacious.sm}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "xl": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xl}",
-          "horizontalPadding": "{spacing.spacious.xl}"
+        "md": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.lg}",
+            "horizontalPadding": "{spacing.spacious.md}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "xxl": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xxl}",
-          "horizontalPadding": "{spacing.spacious.xxl}"
+        "lg": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xl}",
+            "horizontalPadding": "{spacing.spacious.lg}"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      }
-    },
-    "squish": {
-      "xs": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xxs}",
-          "horizontalPadding": "{spacing.spacious.xs}"
-        },
-        "type": "composition"
-      },
-      "sm": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xs}",
-          "horizontalPadding": "{spacing.spacious.sm}"
-        },
-        "type": "composition"
-      },
-      "md": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.sm}",
-          "horizontalPadding": "{spacing.spacious.md}"
-        },
-        "type": "composition"
-      },
-      "lg": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.md}",
-          "horizontalPadding": "{spacing.spacious.lg}"
-        },
-        "type": "composition"
-      },
-      "xl": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.lg}",
-          "horizontalPadding": "{spacing.spacious.xl}"
-        },
-        "type": "composition"
-      },
-      "xxl": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xl}",
-          "horizontalPadding": "{spacing.spacious.xxl}"
-        },
-        "type": "composition"
-      }
-    },
-    "stretch": {
-      "xxs": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xs}",
-          "horizontalPadding": "{spacing.spacious.xxs}"
-        },
-        "type": "composition"
-      },
-      "xs": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.sm}",
-          "horizontalPadding": "{spacing.spacious.xs}"
-        },
-        "type": "composition"
-      },
-      "sm": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.md}",
-          "horizontalPadding": "{spacing.spacious.sm}"
-        },
-        "type": "composition"
-      },
-      "md": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.lg}",
-          "horizontalPadding": "{spacing.spacious.md}"
-        },
-        "type": "composition"
-      },
-      "lg": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xl}",
-          "horizontalPadding": "{spacing.spacious.lg}"
-        },
-        "type": "composition"
-      },
-      "xl": {
-        "value": {
-          "verticalPadding": "{spacing.spacious.xxl}",
-          "horizontalPadding": "{spacing.spacious.xl}"
-        },
-        "type": "composition"
+        "xl": {
+          "value": {
+            "verticalPadding": "{spacing.spacious.xxl}",
+            "horizontalPadding": "{spacing.spacious.xl}"
+          },
+          "type": "composition"
+        }
       }
     }
   },
