@@ -5,11 +5,7 @@
     "selectedTokenSets": {
       "global": "enabled",
       "alloy": "enabled",
-      "spacing-base": "enabled",
-      "spacing-dense": "disabled",
-      "zzz_homeroom": "disabled",
-      "zzz_alloy-dark": "disabled",
-      "spacing-spacious": "disabled"
+      "spacing-base": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -18,12 +14,8 @@
     "name": "homeroom",
     "selectedTokenSets": {
       "global": "enabled",
-      "alloy": "disabled",
       "spacing-base": "enabled",
-      "spacing-dense": "disabled",
-      "zzz_homeroom": "enabled",
-      "zzz_alloy-dark": "disabled",
-      "spacing-spacious": "disabled"
+      "zzz_homeroom": "enabled"
     },
     "$figmaStyleReferences": {}
   }
