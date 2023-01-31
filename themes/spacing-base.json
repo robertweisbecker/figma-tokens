@@ -289,6 +289,19 @@
         },
         "type": "typography"
       },
+      "p2-semibold": {
+        "value": {
+          "fontFamily": "{font-family.default}",
+          "fontWeight": "{font-weight.semibold}",
+          "lineHeight": "{lineHeights.md}",
+          "fontSize": "{fontSize.sm}",
+          "letterSpacing": "",
+          "paragraphSpacing": "",
+          "textCase": "",
+          "textDecoration": ""
+        },
+        "type": "typography"
+      },
       "p3": {
         "value": {
           "fontFamily": "{font-family.default}",

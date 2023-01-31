@@ -1,4 +1,8 @@
 {
+  "1": {
+    "value": "1rem",
+    "type": "dimension"
+  },
   "colors": {
     "white": {
       "value": "#ffffff",
@@ -617,5 +621,13 @@
       "value": "4%",
       "type": "letterSpacing"
     }
+  },
+  "field": {
+    "value": {
+      "color": "{colors.grey.300}",
+      "width": "{border-width.xs}",
+      "style": "solid"
+    },
+    "type": "border"
   }
 }

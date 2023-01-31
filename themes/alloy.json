@@ -122,6 +122,10 @@
       "value": "{colors.grey.100}",
       "type": "color"
     },
+    "divider": {
+      "value": "{colors.grey.200}",
+      "type": "color"
+    },
     "disabled": {
       "value": "{colors.transparent.grey-01}",
       "type": "color"
