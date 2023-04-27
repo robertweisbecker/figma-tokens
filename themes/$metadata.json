@@ -1,20 +1,20 @@
 {
   "tokenSetOrder": [
+    "colors",
+    "typography",
+    "borders",
+    "borderWidths",
+    "radii",
+    "shadows",
+    "sizes",
+    "space",
     "spacing/spacious",
     "spacing/dense",
     "spacing/base",
     "textStyles/dense",
     "textStyles/spacious",
     "textStyles/base",
-    "semanticTokens",
     "themeColors",
-    "typography",
-    "sizes",
-    "space",
-    "colors",
-    "borders",
-    "borderWidths",
-    "radii",
-    "shadows"
+    "semanticTokens"
   ]
 }
