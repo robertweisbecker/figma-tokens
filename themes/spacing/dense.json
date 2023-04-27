@@ -1,41 +1,39 @@
 {
   "spacing": {
-    "dense": {
-      "2xs": {
-        "value": "{space.1}",
-        "type": "spacing",
-        "description": "4px"
-      },
-      "xs": {
-        "value": "{space.1-5}",
-        "type": "spacing",
-        "description": "6px"
-      },
-      "sm": {
-        "value": "{space.2}",
-        "type": "spacing",
-        "description": "8px"
-      },
-      "md": {
-        "value": "{space.4}",
-        "type": "spacing",
-        "description": "16px"
-      },
-      "lg": {
-        "value": "{space.6}",
-        "type": "spacing",
-        "description": "24px"
-      },
-      "xl": {
-        "value": "{space.8}",
-        "type": "spacing",
-        "description": "32px"
-      },
-      "2xl": {
-        "value": "{space.12}",
-        "type": "spacing",
-        "description": "48px"
-      }
+    "2xs": {
+      "value": "{space.1}",
+      "type": "spacing",
+      "description": "4px"
+    },
+    "xs": {
+      "value": "{space.1-5}",
+      "type": "spacing",
+      "description": "6px"
+    },
+    "sm": {
+      "value": "{space.2}",
+      "type": "spacing",
+      "description": "8px"
+    },
+    "md": {
+      "value": "{space.4}",
+      "type": "spacing",
+      "description": "16px"
+    },
+    "lg": {
+      "value": "{space.6}",
+      "type": "spacing",
+      "description": "24px"
+    },
+    "xl": {
+      "value": "{space.8}",
+      "type": "spacing",
+      "description": "32px"
+    },
+    "2xl": {
+      "value": "{space.12}",
+      "type": "spacing",
+      "description": "48px"
     }
   }
 }

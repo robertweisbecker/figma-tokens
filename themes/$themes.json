@@ -13,12 +13,7 @@
       "borderWidths": "enabled",
       "radii": "enabled",
       "shadows": "enabled",
-      "spacing/spacious": "disabled",
-      "spacing/dense": "disabled",
-      "spacing/base": "enabled",
-      "textStyles/base": "disabled",
-      "textStyles/spacious": "disabled",
-      "textStyles/dense": "disabled"
+      "spacing/base": "enabled"
     },
     "$figmaStyleReferences": {
       "textStyles.h0": "S:d6ab0c276d6e8e7df9f5418757e96fd2493a7f0a,",
@@ -348,11 +343,7 @@
       "semanticTokens": "enabled",
       "themeColors": "enabled",
       "spacing/spacious": "enabled",
-      "spacing/dense": "disabled",
-      "spacing/base": "disabled",
-      "textStyles/base": "disabled",
-      "textStyles/spacious": "enabled",
-      "textStyles/dense": "disabled"
+      "textStyles/spacious": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -370,11 +361,7 @@
       "borderWidths": "enabled",
       "radii": "enabled",
       "shadows": "enabled",
-      "spacing/spacious": "disabled",
       "spacing/dense": "enabled",
-      "spacing/base": "disabled",
-      "textStyles/base": "disabled",
-      "textStyles/spacious": "disabled",
       "textStyles/dense": "enabled"
     },
     "$figmaStyleReferences": {}
