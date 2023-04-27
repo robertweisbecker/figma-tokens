@@ -1,12 +1,13 @@
 {
   "tokenSetOrder": [
-    "spacious/spacing",
-    "spacious/textStyles",
-    "dense/spacing",
-    "dense/textStyles",
+    "spacing/spacious",
+    "spacing/dense",
+    "spacing/base",
+    "textStyles/dense",
+    "textStyles/spacious",
+    "textStyles/base",
     "semanticTokens",
     "themeColors",
-    "spacing",
     "typography",
     "sizes",
     "space",

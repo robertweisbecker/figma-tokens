@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "semanticTokens": "enabled",
       "themeColors": "enabled",
-      "spacing": "enabled",
       "typography": "enabled",
       "sizes": "enabled",
       "space": "enabled",
@@ -13,7 +12,13 @@
       "borders": "enabled",
       "borderWidths": "enabled",
       "radii": "enabled",
-      "shadows": "enabled"
+      "shadows": "enabled",
+      "spacing/spacious": "disabled",
+      "spacing/dense": "disabled",
+      "spacing/base": "enabled",
+      "textStyles/base": "disabled",
+      "textStyles/spacious": "disabled",
+      "textStyles/dense": "disabled"
     },
     "$figmaStyleReferences": {
       "textStyles.h0": "S:d6ab0c276d6e8e7df9f5418757e96fd2493a7f0a,",
@@ -340,10 +345,14 @@
       "borderWidths": "enabled",
       "radii": "enabled",
       "shadows": "enabled",
-      "spacious/textStyles": "enabled",
-      "spacious/spacing": "enabled",
       "semanticTokens": "enabled",
-      "themeColors": "enabled"
+      "themeColors": "enabled",
+      "spacing/spacious": "enabled",
+      "spacing/dense": "disabled",
+      "spacing/base": "disabled",
+      "textStyles/base": "disabled",
+      "textStyles/spacious": "enabled",
+      "textStyles/dense": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -351,8 +360,6 @@
     "id": "83f2381657a21ca39cd500035204daa4c1c70fa7",
     "name": "denseTheme",
     "selectedTokenSets": {
-      "dense/spacing": "enabled",
-      "dense/textStyles": "enabled",
       "semanticTokens": "enabled",
       "themeColors": "enabled",
       "typography": "source",
@@ -362,7 +369,13 @@
       "borders": "enabled",
       "borderWidths": "enabled",
       "radii": "enabled",
-      "shadows": "enabled"
+      "shadows": "enabled",
+      "spacing/spacious": "disabled",
+      "spacing/dense": "enabled",
+      "spacing/base": "disabled",
+      "textStyles/base": "disabled",
+      "textStyles/spacious": "disabled",
+      "textStyles/dense": "enabled"
     },
     "$figmaStyleReferences": {}
   }

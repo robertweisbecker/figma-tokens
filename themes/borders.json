@@ -1,20 +1,21 @@
 {
   "none": {
     "value": {
-      "width": "{borderWidths.none}"
+      "width": "0",
+      "style": "solid"
     },
     "type": "border"
   },
   "dashed": {
     "value": {
-      "width": "{borderWidths.xs}",
+      "width": "1px",
       "style": "dashed"
     },
     "type": "border"
   },
   "transparent": {
     "value": {
-      "width": "{borderWidths.xs}",
+      "width": "1px",
       "style": "solid",
       "color": "transparent"
     },
@@ -51,13 +52,6 @@
   "6px": {
     "value": {
       "width": "6px",
-      "style": "solid"
-    },
-    "type": "border"
-  },
-  "8px": {
-    "value": {
-      "width": "8px",
       "style": "solid"
     },
     "type": "border"
