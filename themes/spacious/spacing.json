@@ -1,0 +1,39 @@
+{
+  "spacing": {
+    "2xs": {
+      "value": "{space.1}",
+      "type": "spacing",
+      "description": "4"
+    },
+    "xs": {
+      "value": "{space.2}",
+      "type": "spacing",
+      "description": "8"
+    },
+    "sm": {
+      "value": "{space.4}",
+      "type": "spacing",
+      "description": "16"
+    },
+    "md": {
+      "value": "{space.6}",
+      "type": "spacing",
+      "description": "24"
+    },
+    "lg": {
+      "value": "{space.10}",
+      "type": "spacing",
+      "description": "40"
+    },
+    "xl": {
+      "value": "{space.16}",
+      "type": "spacing",
+      "description": "64"
+    },
+    "2xl": {
+      "value": "{space.20}",
+      "type": "spacing",
+      "description": "80"
+    }
+  }
+}

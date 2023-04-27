@@ -1,11 +1,19 @@
 {
   "tokenSetOrder": [
-    "global",
-    "alloy",
-    "spacing-base",
-    "spacing-dense",
-    "spacing-spacious",
-    "zzz_homeroom",
-    "zzz_alloy-dark"
+    "spacious/spacing",
+    "spacious/textStyles",
+    "dense/spacing",
+    "dense/textStyles",
+    "semanticTokens",
+    "themeColors",
+    "spacing",
+    "typography",
+    "sizes",
+    "space",
+    "colors",
+    "borders",
+    "borderWidths",
+    "radii",
+    "shadows"
   ]
 }
