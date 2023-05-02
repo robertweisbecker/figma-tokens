@@ -79,45 +79,6 @@
         "fontSize": "{fontSizes.md}"
       }
     },
-    "ui-default": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.body}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSizes.xs}"
-      },
-      "description": "12px / 16px"
-    },
-    "ui-divider": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.heading}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.base}",
-        "fontSize": "{fontSizes.2xs}"
-      }
-    },
-    "ui-compact": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.body}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.3}",
-        "fontSize": "{fontSizes.2xs}"
-      },
-      "description": "10px / 14px"
-    },
-    "ui-micro": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.body}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.base}",
-        "fontSize": "{fontSizes.3xs}"
-      },
-      "description": "8px / 12px"
-    },
     "p1": {
       "type": "typography",
       "value": {
@@ -153,6 +114,45 @@
         "fontFamily": "{fonts.body}",
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSizes.3xs}"
+      },
+      "description": "8px / 12px"
+    },
+    "ui-default": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.body}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSizes.xs}"
+      },
+      "description": "12px / 16px"
+    },
+    "ui-compact": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.body}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.3}",
+        "fontSize": "{fontSizes.2xs}"
+      },
+      "description": "10px / 14px"
+    },
+    "ui-divider": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.heading}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.base}",
+        "fontSize": "{fontSizes.2xs}"
+      }
+    },
+    "ui-micro": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.body}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.base}",
         "fontSize": "{fontSizes.3xs}"
       },
       "description": "8px / 12px"
