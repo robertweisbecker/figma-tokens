@@ -1,5 +1,5 @@
 {
-  "spacing": {
+  "spacing/dense": {
     "2xs": {
       "value": "{space.1}",
       "type": "spacing",

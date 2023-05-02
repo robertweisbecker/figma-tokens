@@ -1,5 +1,5 @@
 {
-  "textStyles": {
+  "textStyles/dense": {
     "h0": {
       "type": "typography",
       "value": {

@@ -1,58 +1,60 @@
 {
-  "none": {
-    "value": "0",
-    "type": "borderRadius"
-  },
-  "xs": {
-    "value": ".125rem",
-    "type": "borderRadius",
-    "description": "2px"
-  },
-  "sm": {
-    "value": ".1875rem",
-    "type": "borderRadius",
-    "description": "3px"
-  },
-  "base": {
-    "value": ".25rem",
-    "type": "borderRadius",
-    "description": "4px"
-  },
-  "md": {
-    "value": ".375rem",
-    "type": "borderRadius",
-    "description": "6px"
-  },
-  "lg": {
-    "value": ".5rem",
-    "type": "borderRadius",
-    "description": "8px"
-  },
-  "xl": {
-    "value": ".75rem",
-    "type": "borderRadius",
-    "description": "12px"
-  },
-  "2xl": {
-    "value": "1rem",
-    "type": "borderRadius",
-    "description": "16px"
-  },
-  "3xl": {
-    "value": "1.25rem",
-    "type": "borderRadius",
-    "description": "20px"
-  },
-  "full": {
-    "value": "9999",
-    "type": "borderRadius"
-  },
-  "circle": {
-    "value": "50%",
-    "type": "borderRadius"
-  },
-  "rounded": {
-    "value": "{full}",
-    "type": "borderRadius"
+  "radii": {
+    "none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "xs": {
+      "value": ".125rem",
+      "type": "borderRadius",
+      "description": "2px"
+    },
+    "sm": {
+      "value": ".1875rem",
+      "type": "borderRadius",
+      "description": "3px"
+    },
+    "base": {
+      "value": ".25rem",
+      "type": "borderRadius",
+      "description": "4px"
+    },
+    "md": {
+      "value": ".375rem",
+      "type": "borderRadius",
+      "description": "6px"
+    },
+    "lg": {
+      "value": ".5rem",
+      "type": "borderRadius",
+      "description": "8px"
+    },
+    "xl": {
+      "value": ".75rem",
+      "type": "borderRadius",
+      "description": "12px"
+    },
+    "2xl": {
+      "value": "1rem",
+      "type": "borderRadius",
+      "description": "16px"
+    },
+    "3xl": {
+      "value": "1.25rem",
+      "type": "borderRadius",
+      "description": "20px"
+    },
+    "full": {
+      "value": "9999",
+      "type": "borderRadius"
+    },
+    "circle": {
+      "value": "50%",
+      "type": "borderRadius"
+    },
+    "rounded": {
+      "value": "{full}",
+      "type": "borderRadius"
+    }
   }
 }
