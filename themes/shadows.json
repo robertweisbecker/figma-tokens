@@ -1,7 +1,7 @@
 {
   "shadows": {
     "xs": {
-      "value": "{elevations.0}",
+      "value": "{shadows.elevations.0}",
       "type": "boxShadow"
     },
     "sm": {
@@ -16,17 +16,17 @@
       "type": "boxShadow"
     },
     "base": {
-      "value": "{elevations.1}",
+      "value": "{shadows.elevations.1}",
       "type": "boxShadow",
       "description": "Elevation 1"
     },
     "md": {
-      "value": "{elevations.2}",
+      "value": "{shadows.elevations.2}",
       "type": "boxShadow",
       "description": "Elevation 2"
     },
     "lg": {
-      "value": "{elevations.3}",
+      "value": "{shadows.elevations.3}",
       "type": "boxShadow",
       "description": "Elevation 3"
     },

@@ -53,7 +53,7 @@
       "type": "borderRadius"
     },
     "rounded": {
-      "value": "{full}",
+      "value": "{radii.full}",
       "type": "borderRadius"
     }
   }
