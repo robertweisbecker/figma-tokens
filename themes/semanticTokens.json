@@ -332,12 +332,6 @@
         "type": "color"
       }
     },
-    "text-on-error": {
-      "dark": {
-        "value": "{colors.text-emphasis-invert}",
-        "type": "color"
-      }
-    },
     "text-on-info": {
       "dark": {
         "value": "{colors.text-emphasis-invert}",

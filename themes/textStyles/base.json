@@ -6,7 +6,8 @@
         "fontSize": "{fontSizes.3xs}",
         "lineHeight": "{lineHeights.5}",
         "fontFamily": "{fonts.heading}",
-        "description": "8px / 20px"
+        "description": "8px / 20px",
+        "fontWeight": "{fontWeights.semibold}"
       }
     },
     "ui-compact": {
