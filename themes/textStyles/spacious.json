@@ -72,42 +72,6 @@
         "fontSize": "{fontSizes.2xl}"
       }
     },
-    "ui-default": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.body}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.5}",
-        "fontSize": "{fontSizes.md}"
-      }
-    },
-    "ui-divider": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.heading}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.base}",
-        "fontSize": "{fontSizes.xs}"
-      }
-    },
-    "ui-compact": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.body}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.4}",
-        "fontSize": "{fontSizes.xs}"
-      }
-    },
-    "ui-micro": {
-      "type": "typography",
-      "value": {
-        "fontFamily": "{fonts.body}",
-        "fontWeight": "{fontWeights.semibold}",
-        "lineHeight": "{lineHeights.base}",
-        "fontSize": "{fontSizes.3xs}"
-      }
-    },
     "p1": {
       "type": "typography",
       "value": {
@@ -142,6 +106,42 @@
         "fontWeight": "{fontWeights.regular}",
         "lineHeight": "{lineHeights.4}",
         "fontSize": "{fontSizes.xs}"
+      }
+    },
+    "ui-default": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.body}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.5}",
+        "fontSize": "{fontSizes.md}"
+      }
+    },
+    "ui-divider": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.heading}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.base}",
+        "fontSize": "{fontSizes.xs}"
+      }
+    },
+    "ui-compact": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.body}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.4}",
+        "fontSize": "{fontSizes.xs}"
+      }
+    },
+    "ui-micro": {
+      "type": "typography",
+      "value": {
+        "fontFamily": "{fonts.body}",
+        "fontWeight": "{fontWeights.semibold}",
+        "lineHeight": "{lineHeights.base}",
+        "fontSize": "{fontSizes.3xs}"
       }
     }
   }
