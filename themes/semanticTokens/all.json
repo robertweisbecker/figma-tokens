@@ -322,7 +322,7 @@
     },
     "text-on-success": {
       "dark": {
-        "value": "{colors.text-emphasis.dark}",
+        "value": "{semanticTokens/colors.text-emphasis.dark}",
         "type": "color"
       },
       "light": {
@@ -332,21 +332,21 @@
     },
     "text-on-warning": {
       "dark": {
-        "value": "{colors.text-emphasis.dark}",
+        "value": "{semanticTokens/colors.text-emphasis.dark}",
         "type": "color"
       },
       "light": {
-        "value": "{colors.text-emphasis.light}",
+        "value": "{semanticTokens/colors.text-emphasis.light}",
         "type": "color"
       }
     },
     "text-on-info": {
       "dark": {
-        "value": "{colors.text-emphasis-invert.dark}",
+        "value": "{semanticTokens/colors.text-emphasis-invert.dark}",
         "type": "color"
       },
       "light": {
-        "value": "{colors.text-emphasis-invert.light}",
+        "value": "{semanticTokens/colors.text-emphasis-invert.light}",
         "type": "color"
       }
     },
@@ -532,7 +532,7 @@
     },
     "text-on-error": {
       "dark": {
-        "value": "{colors.text-emphasis-invert.dark}",
+        "value": "{semanticTokens/colors.text-emphasis-invert.dark}",
         "type": "color"
       }
     }

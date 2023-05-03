@@ -1,0 +1,228 @@
+{
+  "colors": {
+    "text": {
+      "emphasis": {
+        "value": "{colors.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.gray.100}",
+        "type": "color"
+      },
+      "subdued": {
+        "value": "{colors.gray.200}",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "{colors.whiteAlpha.400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{colors.whiteAlpha.300}",
+        "type": "color"
+      },
+      "emphasis-invert": {
+        "value": "{colors.gray.800}",
+        "type": "color"
+      },
+      "interactive": {
+        "value": "{colors.brand.300}",
+        "type": "color"
+      },
+      "muted-invert": {
+        "value": "{colors.gray.700}",
+        "type": "color"
+      },
+      "subdued-invert": {
+        "value": "{colors.gray.600}",
+        "type": "color"
+      },
+      "interactive-invert": {
+        "value": "{colors.brand.600}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{colors.error.200}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{colors.info.200}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{colors.warning.200}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{colors.success.200}",
+        "type": "color"
+      },
+      "on-success": {
+        "value": "{colors.text-emphasis}",
+        "type": "color"
+      },
+      "on-warning": {
+        "value": "{colors.text-emphasis}",
+        "type": "color"
+      },
+      "on-info": {
+        "value": "{colors.text-emphasis}",
+        "type": "color"
+      },
+      "on-error": {
+        "value": "{colors.text-emphasis-invert}",
+        "type": "color"
+      },
+      "on-primary": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
+      "on-primary-hover": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
+      "on-primary-active": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{colors.brand.300}",
+        "type": "color"
+      },
+      "on-secondary-hover": {
+        "value": "{colors.brand.200}",
+        "type": "color"
+      },
+      "on-secondary-active": {
+        "value": "{colors.brand.100}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "value": "{colors.gray.600}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.whiteAlpha.300}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "default": {
+        "value": "{colors.gray.800}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.gray.900}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{colors.whiteAlpha.50}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{colors.whiteAlpha.100}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{colors.whiteAlpha.50}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{colors.success.200}",
+        "type": "color"
+      },
+      "success-muted": {
+        "value": "{colors.success.500}",
+        "type": "color"
+      },
+      "success-subdued": {
+        "value": "{colors.success.700}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{colors.warning.200}",
+        "type": "color"
+      },
+      "warning-muted": {
+        "value": "{colors.warning.500}",
+        "type": "color"
+      },
+      "warning-subdued": {
+        "value": "{colors.warning.700}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{colors.error.200}",
+        "type": "color"
+      },
+      "error-muted": {
+        "value": "{colors.error.500}",
+        "type": "color"
+      },
+      "error-subdued": {
+        "value": "{colors.error.700}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{colors.info.200}",
+        "type": "color"
+      },
+      "info-muted": {
+        "value": "{colors.info.500}",
+        "type": "color"
+      },
+      "info-subdued": {
+        "value": "{colors.info.700}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{colors.brand.300}",
+        "type": "color"
+      },
+      "primary-hover": {
+        "value": "{colors.brand.200}",
+        "type": "color"
+      },
+      "primary-active": {
+        "value": "{colors.brand.100}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{colors.whiteAlpha.50}",
+        "type": "color"
+      },
+      "secondary-hover": {
+        "value": "{colors.brand.900}",
+        "type": "color"
+      },
+      "secondary-active": {
+        "value": "{colors.brand.800}",
+        "type": "color"
+      }
+    },
+    "chakra": {
+      "body-text": {
+        "value": "{colors.gray.300}",
+        "type": "color"
+      },
+      "body-bg": {
+        "value": "{colors.gray.700}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{colors.whiteAlpha.200}",
+        "type": "color"
+      },
+      "subtle-bg": {
+        "value": "{colors.gray.900}",
+        "type": "color"
+      },
+      "placeholder-color": {
+        "value": "{colors.whiteAlpha.400}",
+        "type": "color"
+      }
+    }
+  }
+}

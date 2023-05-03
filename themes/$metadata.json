@@ -15,8 +15,8 @@
     "textStyles/spacious",
     "textStyles/base",
     "themeColors",
-    "semanticTokens",
-    "semanticTokens_light",
-    "semanticTokens_dark"
+    "semanticTokens/all",
+    "semanticTokens/light",
+    "semanticTokens/dark"
   ]
 }
